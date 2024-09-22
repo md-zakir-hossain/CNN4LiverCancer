@@ -23,10 +23,23 @@ diagnosis and staging of HCC, saving them time in the manual
 examination of scans. Implementation is publicly available at link
 will be added after acceptance.
 
+## File Structure
+
+
 ## Environment Setup
 
-This repository is developed using Tensorflow 2.13.1 framework in a Google Colab environment. Refer to the Cancer_Prediction_Model.ipynb notebook for experimentation and model development (primarily developed by Patrick Buckley (@patrickjbuckley01).
+This repository is developed using Tensorflow 2.13.1 framework in a Google Colab environment. Refer to the Cancer_Prediction_Model.ipynb (primarily developed by Patrick Buckley (@patrickjbuckley01).
 
-# File Structure
 
+## Citation
+If you find this repository useful in your research, please cite our paper:
+```bibtex
+@article{hossain2024predicting,
+    title = {Predicting and Staging Hepatocellular Carcinoma from Contrast CT Scans},
+    author = {Md Zakir Hossain and Patrick Buckley and Himadri Shekhar Mondal and Md Rakibul Hasan and Tom Gedeon},
+    Conference = {International Conference on Digital Image Computing: Techniques and Applications},
+    year = {2024},
+    issn = {??},
+    doi = {??}
+}
 ```

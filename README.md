@@ -25,9 +25,9 @@ examination of scans. Implementation is publicly available at https://github.com
 ## File Structure
 
 TCGA-XX-XXXX/ <br>
-├───Arterial/
-    ├───x-xx.dcm
-├───Venous/
+├───Arterial/ <br>
+    ├───x-xx.dcm <br>
+├───Venous/ <br>
 ├───Dict.txt
 
 We used a publicly available dataset, namely [TCGA-LIHC]([URL](https://github.com/hasan-rakibul/CNN-Cancer-CT-Scan?tab=readme-ov-file)) (contains 97 medical scans). The dataset was collected from The Cancer Imaging Archive (TCIA), which is a subset of data from the Cancer Genome Atlas. 

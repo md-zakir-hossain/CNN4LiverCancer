@@ -24,7 +24,7 @@ examination of scans. Implementation is publicly available at https://github.com
 
 ## File Structure
 
-TCGA-XX-XXXX/
+TCGA-XX-XXXX/ <br>
 ├───Arterial/
     ├───x-xx.dcm
 ├───Venous/

@@ -1,4 +1,5 @@
-# Predicting and Staging Hepatocellular Carcinoma from Contrast CT Scans. Accepted at the **25th International Conference on Digital Image Computing: Techniques and Applications (DICTA 2024)**. Codes are primarily developed by Patrick Buckley.
+# Predicting and Staging Hepatocellular Carcinoma from Contrast CT Scans. 
+Accepted at the **25th International Conference on Digital Image Computing: Techniques and Applications (DICTA 2024)**. Codes are primarily developed by Patrick Buckley.
 
 Paper link: yet to be published
 

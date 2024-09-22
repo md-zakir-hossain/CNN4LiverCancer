@@ -20,8 +20,7 @@ results indicate that using a dual image input of contrast CT
 scans provides a significant boost in performance to the model.
 Such a model prove to be a valuable tool to assist doctors in the
 diagnosis and staging of HCC, saving them time in the manual
-examination of scans. Implementation is publicly available at link
-will be added after acceptance.
+examination of scans. Implementation is publicly available at https://github.com/ZakirANU/CNN4LiverCancer.
 
 ## File Structure
 
